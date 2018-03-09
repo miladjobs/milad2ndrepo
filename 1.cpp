@@ -1,4 +1,4 @@
-//first git 
+
 #include <iostream>
 
 #include <math.h>
